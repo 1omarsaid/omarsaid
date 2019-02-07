@@ -21,9 +21,6 @@ class About extends Component {
 
       <p style={{width:'65%', margin: 'auto'}}>My ultimate goal (at the moment) is having a full time iOS developer position in california. Being the hub for startups, the hunger for success and making an impact is huge. Putting in over 40 hours a week in learning/developement outside of my work time, I think I would be a great fit.</p>
 
-      <h3 style={{paddingTop: '1em'}}>Milestones</h3>
-
-      <p style={{width:'65%', margin: 'auto'}}>Need to work on this.</p>
       <p className= "footer-spacing"></p>
 
       </div>
