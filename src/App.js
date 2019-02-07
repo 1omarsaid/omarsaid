@@ -32,7 +32,6 @@ class App extends Component {
               <Link to="/videos">Videos</Link>
               <Link to="/OpenSourceContribution">Open Source Contribution</Link>
               <Link to="/contact">Contact</Link>
-
             </Navigation>
         </Drawer>
         <Content>
