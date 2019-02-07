@@ -15,7 +15,7 @@ class Contact extends Component {
 
               style={{height: '250px'}}
                />
-             <p style={{ width: '65%', margin: 'auto', paddingTop: '2em'}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
+             <p style={{ width: '65%', margin: 'auto', paddingTop: '2em'}}>Currently Pursuing an Electrical Engineering Degree at Ryerson University. Fulfilling an Internship at IBM as a Watson Solution Engineer. In my spare time I love to learn iOS development and integrating different technologies like video processing and Machine Learning.</p>
 
           </Cell>
 
