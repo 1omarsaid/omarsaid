@@ -18,6 +18,7 @@ class App extends Component {
                 <Link to="/projects">Projects</Link>
                 <Link to="/blogs">Blogs</Link>
                 <Link to="/videos">Videos</Link>
+                <Link to="/OpenSourceContribution">Open Source Contribution</Link>
                 <Link to="/contact">Contact</Link>
 
             </Navigation>
@@ -29,6 +30,7 @@ class App extends Component {
               <Link to="/projects">Projects</Link>
               <Link to="/blogs">Blogs</Link>
               <Link to="/videos">Videos</Link>
+              <Link to="/OpenSourceContribution">Open Source Contribution</Link>
               <Link to="/contact">Contact</Link>
 
             </Navigation>

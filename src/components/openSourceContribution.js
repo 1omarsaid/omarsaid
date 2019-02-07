@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 
-class Blogs extends Component {
+class OpenSourceContribution extends Component {
   render() {
     return(
       <div>
@@ -19,4 +19,4 @@ class Blogs extends Component {
   }
 }
 
-export default Blogs;
+export default OpenSourceContribution;
